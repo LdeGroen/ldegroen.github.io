@@ -3,6 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "nl.cafetheaterfestival.ctftimetable",
-    "sha256_cert_fingerprints": ["48:18:07:01:84:7C:80:46:5B:D5:32:26:9B:D3:B3:7A:91:40:55:76:77:B9:D8:B8:F3:75:BD:DA:22:FD:09:15"]
+    "sha256_cert_fingerprints": ["74:F6:01:6C:25:D5:6B:D0:2E:5B:B4:EC:79:47:42:E8:83:67:BC:52:FE:90:16:71:65:70:F4:AA:D1:91:0C:77"]
   }
 }]
